@@ -77,6 +77,7 @@ public class AllAnnotations {
 	@AfterSuite
 	public void AfterSuite() {
 		System.out.println("AfterSuite");
+		System.out.println("After Pull Origin- First Commit");
 	}
 
 }

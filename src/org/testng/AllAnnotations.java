@@ -15,6 +15,7 @@ public class AllAnnotations {
 	@BeforeSuite
 	public void LaunchBrowser() {
 		System.out.println("Post Git");
+		System.out.println("Main Branch");
 		System.out.println("BeforeSuite");
 	}
 
